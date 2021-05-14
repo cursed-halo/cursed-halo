@@ -1,6 +1,3 @@
 ### Hi there 👋
-### Bye there 👋.
-
-- 🔭 I’m currently working on a website
-- 🌱 I’m currently learning a lot of things
-- 💬 Ask me about LINUX!
+I am Seto Kaiba, God-Emperor Of Duel Monsters. Among Other Things, I Might Be Psychotic >:)
+### Bye there 👋
