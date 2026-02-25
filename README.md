@@ -28,7 +28,6 @@
 <a href="https://www.linkedin.com/in/rudraneel-bhattacharya/"><img src="https://img.shields.io/badge/LinkedIn-2a1f16?style=flat-square&logo=linkedin&logoColor=cdb89a" alt="LinkedIn" /></a>&nbsp;
 <a href="https://the-rickety-tavern.netlify.app"><img src="https://img.shields.io/badge/Portfolio-2a1f16?style=flat-square&logo=googlechrome&logoColor=cdb89a" alt="Portfolio" /></a>&nbsp;
 <a href="https://medium.com/@r.bhattacharya.2k"><img src="https://img.shields.io/badge/Medium-2a1f16?style=flat-square&logo=medium&logoColor=cdb89a" alt="Medium" /></a>&nbsp;
-<a href="https://link.springer.com/article/10.1007/s11269-025-04463-5"><img src="https://img.shields.io/badge/Springer-2a1f16?style=flat-square&logo=springer&logoColor=cdb89a" alt="Published in Springer" /></a>&nbsp;
 <a href="mailto:r.bhattacharya.2k@gmail.com"><img src="https://img.shields.io/badge/Email-2a1f16?style=flat-square&logo=gmail&logoColor=cdb89a" alt="Email" /></a>
 
 <br /><br />
@@ -74,10 +73,10 @@ I build and lead engineering for production software — voice AI, enterprise pl
 | &nbsp; | Period | Role | Focus | Location |
 |:--|:--|:--|:--|:--|
 | 🏢 | 2023 — Present | **Chief Technology Officer** | Voice AI platform — architecture, ML pipelines, enterprise delivery | 📍 New York, USA |
-| 🏢 | 2023 — 2025 | **Acting CTO** | Cognitive solutions product — MVP design, technical strategy | 📍 Kolkata, India |
-| 🧠 | 2023 — 2024 | **Development Advisor** | Neurotech startup — product architecture, early-stage advisory | 📍 Kolkata, India |
-| 🚀 | 2021 — 2023 | **Co-founder & COO** | Offline-first NFC payment platform — MVP to merchant pilot | 📍 Kolkata, India |
-| 🌱 | 2021 — 2023 | **Co-founder & COO** | Circular economy initiative — Hult Prize 2022 semifinalist | 📍 Kolkata, India |
+| 🏢 | 2022 — 2023 | **Acting CTO** | Cognitive solutions product — MVP design, technical strategy | 📍 Kolkata, India |
+| 🧠 | 2022 — 2023 | **Development Advisor** | Neurotech startup — product architecture, early-stage advisory | 📍 Kolkata, India |
+| 🚀 | 2022 — 2023 | **Co-founder & COO** | Offline-first NFC payment platform — MVP to merchant pilot | 📍 Kolkata, India |
+| 🌱 | 2022 — 2023 | **Co-founder & COO** | Circular economy initiative — Hult Prize 2022 semifinalist | 📍 Kolkata, India |
 
 </details>
 
