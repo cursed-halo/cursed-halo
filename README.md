@@ -86,7 +86,7 @@ I build and lead engineering for production software — voice AI, enterprise pl
   <img src="https://img.shields.io/badge/%E2%80%83-e0d3bf?style=for-the-badge" height="1" width="100%" alt="" />
 </picture>
 
-<details open>
+<!-- <details open>
 <summary><strong><code>PUBLICATION</code></strong></summary>
 
 <br />
@@ -99,7 +99,7 @@ I build and lead engineering for production software — voice AI, enterprise pl
 > <br /><br />
 > <sub>Deep learning models integrated with IoT sensor networks for real-time water level monitoring and climate-adaptive prediction systems.</sub>
 
-</details>
+</details> -->
 
 <!-- Divider -->
 <picture>
